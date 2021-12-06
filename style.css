@@ -2,6 +2,7 @@ body, html {
   height: 100%;
   margin: 0;
 }
+/* ustawienie czcionki i centrowanie textu */
 .container{
   height: 100vh;
   margin: auto;
@@ -13,13 +14,13 @@ body, html {
 	font-size: 20px;
 }
 .background {
-  /* The image used */
+  /* obrazek lokalny */
   background-image: url("IMG-20210620-WA0028.jpg");
 
-  /* Full height */
+  /* pełen rozmiar obrazka */
   height: 100%; 
 
-  /* Center and scale the image nicely */
+  /* Centorwanie i skalowanie obrazka */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
